@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jasatukang.pages.dev/sitemap_index.xml
